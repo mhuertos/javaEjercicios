@@ -1,4 +1,4 @@
-package n1exercici1;
+package src.n1exercici1;
 
 public class Vehicle {
 	String color;
