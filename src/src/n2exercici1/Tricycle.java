@@ -1,4 +1,4 @@
-package n2exercici1;
+package src.n2exercici1;
 
 public class Tricycle extends Cycle{
 	

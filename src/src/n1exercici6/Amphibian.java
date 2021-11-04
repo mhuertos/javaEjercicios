@@ -1,4 +1,4 @@
-package n1exercici6;
+package src.n1exercici6;
 
 public class Amphibian {
 	

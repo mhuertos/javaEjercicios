@@ -1,4 +1,4 @@
-package n2exercici2;
+package src.n2exercici2;
 
 public class Main {
 

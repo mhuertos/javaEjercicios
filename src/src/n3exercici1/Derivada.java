@@ -1,4 +1,4 @@
-package n3exercici1;
+package src.n3exercici1;
 
 public class Derivada extends Base{
 	

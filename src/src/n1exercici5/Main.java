@@ -1,4 +1,4 @@
-package n1exercici5;
+package src.n1exercici5;
 
 public class Main extends Animal{
 
